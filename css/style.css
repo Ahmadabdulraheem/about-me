@@ -48,6 +48,28 @@ header img {
   main section:nth-child(4) p:nth-child(6) {
     background-color: #2e1b20;
   }
+
+  main section:nth-child(5) h2 {
+    margin: 70px;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 50px;
+
+  }
+  main section:nth-child(5) ol li {
+    
+    padding: 15px;
+  }
+
+  main section:nth-child(6) h2 {
+    margin: 70px;
+    font-size: 40px;
+    font-weight: 600;
+  }
+  main section:nth-child(6) ul li {
+    
+    padding: 15px;
+  }
   
   h1 {
     font-size: 50px;
