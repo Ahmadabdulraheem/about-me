@@ -23,7 +23,7 @@ let age = prompt('Am I over 18 years?').toLowerCase();
 //console.log('Im 25');
 
 if(age === 'yes' || age === 'y') {
-  alert(' ofcourse Im not, we already said i finished the university '); 
+  alert(' ofcourse I am, we already said i finished the university '); 
   score++;
 } else if (age === 'no' || age === 'n') {
   alert('Wrong I am over 18');
@@ -108,7 +108,7 @@ var favLanguage = ['1.Chinese', '2.english', '3.french', '4.Arabic', '5.spanish'
 for(let j = 1; j < 7 ; j++) {
    var favLanguage = prompt('choose the language you think I like the most : 1.Chinese 2.English 3.French 4.Arabic 5.spanish 6.japanese 7.russian?').toLowerCase();
   console.log('french');
-  if(favLanguage === 'french') { alert ('yes,, it is the correct answer' );
+  if(favLanguage === 'french') { alert (' yes,, it is the correct answer' );
   score++;
 break;
     
@@ -117,5 +117,5 @@ break;
   }
 }
 alert ('It was French ^_^ ');
-alert ('congrats!' + userName + 'your score is ' + score + ' out of 7' )
-alert ('thanks for your time ' + userName + 'see you soon 😍 ');
+alert (' congrats!' + userName + ' your score is ' + score + '  out of 7' )
+alert (' thanks for your time ' + userName + ' see you soon 😍 ');

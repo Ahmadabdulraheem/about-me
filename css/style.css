@@ -58,7 +58,8 @@ header img {
   }
   main section:nth-child(5) ol li {
     
-    padding: 15px;
+    padding: 10px;
+  
   }
 
   main section:nth-child(6) h2 {
@@ -68,7 +69,7 @@ header img {
   }
   main section:nth-child(6) ul li {
     
-    padding: 15px;
+    padding: 10px;
   }
   
   h1 {
