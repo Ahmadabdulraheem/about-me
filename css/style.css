@@ -5,7 +5,7 @@ header img {
   header nav {
     float: right;
     border: gray;
-    border-style:double;>
+    border-style:double;
   }
   
   header nav ul li {
@@ -79,7 +79,7 @@ header img {
   
   main section:nth-child(2) p {
     text-indent: 50px; 
-    /* margin-left: 50px; */
+    margin-left: 50px;
   }
 
   footer {
