@@ -1,3 +1,9 @@
+
+body {
+background-color: #D3D3D3 ;
+
+}
+
 header img {
     width: 60px;
   }
@@ -15,7 +21,10 @@ header img {
  
   
   main img {
-    width: 50%;
+    width: 90%;
+    border-radius: 50%;
+    position: relative;
+    left: 50px;
   }
   
   p {
@@ -56,9 +65,15 @@ header img {
     margin-top: 50px;
 
   }
+  main section:nth-child(5) {background-image: url(https://i.pinimg.com/originals/7a/7d/cf/7a7dcfa6474ec4cbfa81113eebe3c0dc.jpg);
+  
+   }
+  
   main section:nth-child(5) ol li {
     
     padding: 10px;
+ 
+
   
   }
 
